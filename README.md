@@ -1,6 +1,6 @@
 # 🚀 My Online Skills for Freelance Future
 
-**Goal:** Learn 7 AI/Automation skills by end of 2027 for career switching + freelancing  
+**Goal:** Learn 8 AI/Automation skills by end of 2027 for career switching + freelancing  
 **Start Date:** May 15, 2026  
 **Target Date:** December 2027  
 **Current Role:** $120/month (keeping while learning)  
@@ -19,6 +19,7 @@
 | 5 | **Data Analysis with AI Tools** | 🔴 Not Started | - | - | - |
 | 6 | **Fine-tuning & Model Customization** | 🔴 Not Started | - | - | - |
 | 7 | **MCP Tool Development** | 🔴 Not Started | - | - | - |
+| 8 | **Context Engineering** | 🔴 Not Started | - | - | - |
 
 **Status Legend:** 🔴 Not Started | 🟡 Learning Basics | 🟢 Basics Complete | 🔵 Building Projects | ✅ Proficient
 
@@ -58,7 +59,8 @@ My-online-skills-for-freelance-future/
 ├── 04-python-automation/
 ├── 05-data-analysis/
 ├── 06-fine-tuning/
-└── 07-mcp-tools/
+├── 07-mcp-tools/
+└── 08-context-engineering/
 ```
 
 Each skill folder contains:
@@ -76,8 +78,8 @@ Each skill folder contains:
 | May-Aug 2026 | Python + Automation Basics | 1 working automation |
 | Sep-Nov 2026 | API Integration + Data Analysis | 1 integration project |
 | Dec 2026-Feb 2027 | RAG Systems + AI Agents | 1 AI agent project |
-| Mar-May 2027 | Fine-tuning + MCP | Experimentation & notes |
-| Jun-Dec 2027 | Market observation + Deep dive prep | Market report + specialization plan |
+| Mar-May 2027 | Fine-tuning + Context Engineering | Experimentation & notes |
+| Jun-Dec 2027 | MCP Tools + Market observation | Market report + specialization plan |
 
 ---
 
