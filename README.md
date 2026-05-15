@@ -1,9 +1,9 @@
 # 🚀 My Online Skills for Freelance Future
 
-**Goal:** Learn 8 AI/Automation skills by end of 2027 for career switching + freelancing  
+**Goal:** Learn 7 AI/Automation skills by end of 2027 for career switching + freelancing  
 **Start Date:** May 15, 2026  
 **Target Date:** December 2027  
-**Current Role:** $120/hr (keeping while learning)  
+**Current Role:** $120/month (keeping while learning)  
 **Targets:** Freelancing on Upwork/Fiverr, Career transition to AI/Automation
 
 ---
@@ -12,13 +12,12 @@
 
 | # | Skill | Status | Start Date | Resources | Projects |
 |---|-------|--------|-----------|-----------|----------|
-| 1 | **Python + n8n/Make Automation** | 🔴 Not Started | - | - | - |
-| 2 | **Data Analysis with AI Tools** | 🔴 Not Started | - | - | - |
-| 3 | **RAG Systems / Custom AI Memory** | 🔴 Not Started | - | - | - |
-| 4 | **AI Agent Building** | 🔴 Not Started | - | - | - |
-| 5 | **AI API Integration** | 🔴 Not Started | - | - | - |
-| 6 | **Fine-tuning & Model Customization** | 🔴 Not Started | - | - | - |
-| 7 | **MCP Tool Development** | 🔴 Not Started | - | - | - |
+| 1 | **AI API Integration** | 🔴 Not Started | - | - | - |
+| 2 | **RAG Systems / Custom AI Memory** | 🔴 Not Started | - | - | - |
+| 3 | **AI Agent Building** | 🔴 Not Started | - | - | - |
+| 4 | **Python + n8n/Make Automation** | 🔴 Not Started | - | - | - |
+| 5 | **Data Analysis with AI Tools** | 🔴 Not Started | - | - | - |
+| 6 | **MCP Tool Development** | 🔴 Not Started | - | - | - |
 
 **Status Legend:** 🔴 Not Started | 🟡 Learning Basics | 🟢 Basics Complete | 🔵 Building Projects | ✅ Proficient
 
@@ -52,13 +51,12 @@ My-online-skills-for-freelance-future/
 ├── README.md (this file)
 ├── PROGRESS.md (detailed progress tracking)
 ├── MARKET_INSIGHTS.md (trends and observations)
-├── 01-python-automation/
-├── 02-data-analysis/
-├── 03-rag-systems/
-├── 04-ai-agents/
-├── 05-api-integration/
-├── 06-fine-tuning/
-└── 07-mcp-tools/
+├── 01-api-integration/
+├── 02-rag-systems/
+├── 03-ai-agents/
+├── 04-python-automation/
+├── 05-data-analysis/
+└── 06-mcp-tools/
 ```
 
 Each skill folder contains:
@@ -74,9 +72,9 @@ Each skill folder contains:
 | Period | Focus | Deliverable |
 |--------|-------|-------------|
 | May-Aug 2026 | Python + Automation Basics | 1 working automation |
-| Sep-Nov 2026 | Data Analysis + RAG | 1 data analysis project |
-| Dec 2026-Feb 2027 | AI Agents + API Integration | 1 AI agent project |
-| Mar-May 2027 | Fine-tuning + MCP | Experimentation & notes |
+| Sep-Nov 2026 | API Integration + Data Analysis | 1 integration project |
+| Dec 2026-Feb 2027 | RAG Systems + AI Agents | 1 AI agent project |
+| Mar-May 2027 | MCP Tool Development | Experimentation & notes |
 | Jun-Dec 2027 | Market observation + Deep dive prep | Market report + specialization plan |
 
 ---
