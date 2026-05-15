@@ -17,7 +17,8 @@
 | 3 | **AI Agent Building** | 🔴 Not Started | - | - | - |
 | 4 | **Python + n8n/Make Automation** | 🔴 Not Started | - | - | - |
 | 5 | **Data Analysis with AI Tools** | 🔴 Not Started | - | - | - |
-| 6 | **MCP Tool Development** | 🔴 Not Started | - | - | - |
+| 6 | **Fine-tuning & Model Customization** | 🔴 Not Started | - | - | - |
+| 7 | **MCP Tool Development** | 🔴 Not Started | - | - | - |
 
 **Status Legend:** 🔴 Not Started | 🟡 Learning Basics | 🟢 Basics Complete | 🔵 Building Projects | ✅ Proficient
 
@@ -56,7 +57,8 @@ My-online-skills-for-freelance-future/
 ├── 03-ai-agents/
 ├── 04-python-automation/
 ├── 05-data-analysis/
-└── 06-mcp-tools/
+├── 06-fine-tuning/
+└── 07-mcp-tools/
 ```
 
 Each skill folder contains:
@@ -74,7 +76,7 @@ Each skill folder contains:
 | May-Aug 2026 | Python + Automation Basics | 1 working automation |
 | Sep-Nov 2026 | API Integration + Data Analysis | 1 integration project |
 | Dec 2026-Feb 2027 | RAG Systems + AI Agents | 1 AI agent project |
-| Mar-May 2027 | MCP Tool Development | Experimentation & notes |
+| Mar-May 2027 | Fine-tuning + MCP | Experimentation & notes |
 | Jun-Dec 2027 | Market observation + Deep dive prep | Market report + specialization plan |
 
 ---
